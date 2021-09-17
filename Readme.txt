@@ -1,3 +1,7 @@
+Sample Site
+https://bogdandaringa2.github.io/Sample2/
+
+
 Thanks for downloading this template!
 
 Template Name: Gp
